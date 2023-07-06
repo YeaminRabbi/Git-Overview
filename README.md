@@ -1,26 +1,24 @@
 <h1 align="center">Hi 👋, I'm Yeamin Rabbi</h1>
-<h3 align="center">I'm passionate software developer from Bangladesh</h3>
+<h3 align="center">I'm passionate Software Developer from Bangladesh</h3>
 
 <p align="right"><img align="right" height="250" width="350" alt="Fariha Sultana" style="margin-top: 10px" src="./giphy.gif" /></p>
 
-- 🌱 I’m currently learning **Vue , Nuxt**
+- 🌱 I’m currently learning **Vue.js , Nuxt.js**
 
 - 👨‍💻 All of my projects are available at [https://yeaminrabbi.techstringit.com/](https://yeaminrabbi.techstringit.com/)
 
 - 📝 I regularly write articles on [https://blog.techstringit.com/author/9](https://blog.techstringit.com/author/9)
 
 - 📫 How to reach me **yeaminrabbi308@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s032LE25k1Iif-4GzkvgNlK2yJveX-ek/view?usp=sharing](https://drive.google.com/file/d/1s032LE25k1Iif-4GzkvgNlK2yJveX-ek/view?usp=sharing)
   
 - 🌐 My Portfolio [https://yeaminrabbi.techstringit.com/](https://yeaminrabbi.techstringit.com/)
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yeaminrabbi&label=Profile%20views&color=0e75b6&style=flat" alt="yeaminrabbi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeaminrabbi&label=Profile%20views&color=0e75b6&style=flat" alt="yeaminrabbi" />
 <span><a href="https://wakatime.com/@1a812028-d247-4ecc-941e-315a4d0e9f71"><img src="https://wakatime.com/badge/user/1a812028-d247-4ecc-941e-315a4d0e9f71.svg" alt="Total time coded since Jul 6 2023" /></a></span></p>
 
----
+
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/yeamin.akram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yeamin.akram" height="30" width="40" /></a>
@@ -37,7 +35,7 @@
 ### Top Languages
 
 ![YeaminRabbi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YeaminRabbi&theme=gotham&show_icons=true&hide_border=false&layout=compact)
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yeaminrabbi" alt="Total time coded since Jul 07 2023" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yeaminrabbi&theme=gotham&hide_border=false" alt="Total time coded since Jul 07 2023" />
 
 
 ---
