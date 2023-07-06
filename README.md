@@ -40,11 +40,12 @@
 
 ---
 ### GitHub Stats
- ![YeaminRabbi's Stats](https://github-readme-stats.vercel.app/api?username=YeaminRabbi&theme=gotham&show_icons=true&hide_border=false&count_private=true) 
-  ![YeaminRabbi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YeaminRabbi&theme=gotham&hide_border=false) 
+
+![YeaminRabbi's Stats](https://github-readme-stats.vercel.app/api?username=YeaminRabbi&theme=gotham&show_icons=true&hide_border=false&count_private=true) 
+![YeaminRabbi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YeaminRabbi&theme=gotham&hide_border=false) 
 
 
 ---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeaminrabbi" alt="yeaminrabbi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeaminrabbi" alt="yeaminrabbi" /></a></p>
 
