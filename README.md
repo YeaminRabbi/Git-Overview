@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yeamin Rabbi</h1>
 <h3 align="center">I'm passionate software developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeaminrabbi&label=Profile%20views&color=0e75b6&style=flat" alt="yeaminrabbi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeaminrabbi" alt="yeaminrabbi" /></a> </p>
+<p align="right"><img align="right" height="250" width="350" alt="Fariha Sultana" style="margin-top: 10px" src="./giphy.gif" /></p>
 
 - 🌱 I’m currently learning **Vue , Nuxt**
 
@@ -14,6 +12,13 @@
 - 📫 How to reach me **yeaminrabbi308@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1s032LE25k1Iif-4GzkvgNlK2yJveX-ek/view?usp=sharing](https://drive.google.com/file/d/1s032LE25k1Iif-4GzkvgNlK2yJveX-ek/view?usp=sharing)
+  
+- 🌐 My Portfolio [https://yeaminrabbi.techstringit.com/](https://yeaminrabbi.techstringit.com/)
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yeaminrabbi&label=Profile%20views&color=0e75b6&style=flat" alt="yeaminrabbi" />
+<span><a href="https://wakatime.com/@1a812028-d247-4ecc-941e-315a4d0e9f71"><img src="https://wakatime.com/badge/user/1a812028-d247-4ecc-941e-315a4d0e9f71.svg" alt="Total time coded since Jul 6 2023" /></a></span></p>
 
 ---
 <h3 align="left">Connect With Me:</h3>
@@ -29,12 +34,18 @@
 ="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
 ---
-### Most Used Languages
+### Top Languages
 
 ![YeaminRabbi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YeaminRabbi&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=yeaminrabbi" alt="Total time coded since Jul 07 2023" />
+
 
 ---
 ### GitHub Stats
 ![YeaminRabbi's Stats](https://github-readme-stats.vercel.app/api?username=YeaminRabbi&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 ![YeaminRabbi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YeaminRabbi&theme=gotham&hide_border=false)
+
+---
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeaminrabbi" alt="yeaminrabbi" /></a> </p>
 
