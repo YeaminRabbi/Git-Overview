@@ -3,7 +3,7 @@
 
 <p align="right"><img align="right" height="250" width="350" alt="Fariha Sultana" style="margin-top: 10px" src="./giphy.gif" /></p>
 
-- 🌱 I’m currently learning **Vue.js , React.js**
+- 🌱 I’m currently learning **Node.js , React.js**
 
 - 👨‍💻 All of my projects are available at [https://yeaminrabbi.techstringit.com/](https://yeaminrabbi.techstringit.com/)
 
